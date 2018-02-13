@@ -1,5 +1,5 @@
 # Website
-The GodSpeak website at http:givegodspeak.com is a WordPress site. For the impact map, the WordPress site uses an iFrame that points to a web page on “go.givegodspeak.com.”
+The GodSpeak website at http://givegodspeak.com is a WordPress site. For the impact map, the WordPress site uses an iFrame that points to a web page on “go.givegodspeak.com.”
 
 The WordPress install uses a editor plugin that allows the developer to change the look and feel of the app inside the WordPress dashboard.
 
