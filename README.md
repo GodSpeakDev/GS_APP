@@ -16,7 +16,7 @@ The dashboard and API are both written using C# and ASP.NET MVC. This site can b
 
 Outside of the server health statistics provided in the Azure dashboard, there are no analytics for the Dashboard.
 
-Mobile Application
+# Mobile Application
 The mobile application is written with Xamarin.Forms using MvvmCross for the architecture. 
 
 The app reports crashes as well as submitted bug reports to HockeyApp. Ownership of this account can be transferred to another HockeyApp account.
@@ -24,6 +24,8 @@ The app reports crashes as well as submitted bug reports to HockeyApp. Ownership
 There are no analytics for the mobile app.
 
 # Source Code
-Source code for both the Dashboard and Mobile Application are in a Github repository. We can supply this code either as a zip file or give the new firm access to the repository for them to migrate to their own Git repository. One note: for the mobile app the iOS code is in branch “develop” and the Android code is in the branch “develop_android.”
+Source code for both the Dashboard and Mobile Application are in a GodSpeak's Github repository. 
+
+One note: for the mobile app the iOS code is in branch “master_ios” and the Android code is in the branch “master_android.”
 
 
